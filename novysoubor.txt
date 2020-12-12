@@ -1,1 +1,2 @@
 prvni radek
+druhy po hotfixu a switchovani branch
